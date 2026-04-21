@@ -230,3 +230,5 @@ __pycache__/
 *.pyc
 !data/llm_finetune.jsonl
 !data/roberta_predictions.json
+!data/train.csv
+!data/test.csv
