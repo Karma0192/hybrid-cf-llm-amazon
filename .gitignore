@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large data files
+data/Video_Games_5.json
+data/sampled_reviews.csv
+data/*.json
+data/*.csv
+data/*.gz
+
+# Model files
+models/
+*.pkl
+*.pt
+*.bin
+
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
