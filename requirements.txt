@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas
+scikit-learn
+scikit-surprise
+matplotlib
+seaborn
+jupyter
+streamlit
