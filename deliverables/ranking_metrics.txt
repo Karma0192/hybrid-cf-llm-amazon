@@ -1,0 +1,10 @@
+NDCG and Hit Rate Results
+Protocol: Leave-one-out, 99 negative samples, binarized at rating >= 4
+
+Model                      NDCG@5   HR@5    NDCG@10   HR@10  
+------------------------------------------------------------------------
+Global Average             0.028      0.0466    0.0443     0.0973  
+User Average               0.0307     0.0518    0.0487     0.1079  
+SVD (tuned)                0.0855     0.1342    0.1074     0.2025  
+RoBERTa fine-tuned         0.7203     0.7614    0.731      0.794   
+Hybrid (CF + LLM)          0.6781     0.743     0.6911     0.7831  

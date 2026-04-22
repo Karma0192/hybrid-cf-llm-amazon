@@ -1,0 +1,32 @@
+{
+  "Global Average": {
+    "NDCG@5": 0.028,
+    "NDCG@10": 0.0443,
+    "Hit Rate@5": 0.0466,
+    "Hit Rate@10": 0.0973
+  },
+  "User Average": {
+    "NDCG@5": 0.0307,
+    "NDCG@10": 0.0487,
+    "Hit Rate@5": 0.0518,
+    "Hit Rate@10": 0.1079
+  },
+  "SVD (tuned)": {
+    "NDCG@5": 0.0855,
+    "NDCG@10": 0.1074,
+    "Hit Rate@5": 0.1342,
+    "Hit Rate@10": 0.2025
+  },
+  "RoBERTa fine-tuned": {
+    "NDCG@5": 0.7203,
+    "NDCG@10": 0.731,
+    "Hit Rate@5": 0.7614,
+    "Hit Rate@10": 0.794
+  },
+  "Hybrid (CF + LLM)": {
+    "NDCG@5": 0.6781,
+    "NDCG@10": 0.6911,
+    "Hit Rate@5": 0.743,
+    "Hit Rate@10": 0.7831
+  }
+}
