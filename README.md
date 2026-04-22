@@ -198,10 +198,10 @@ transformers
 
 ## 👥 Team
 
-| Name | Role |
-|---|---|
-| Sahil (Karma0192) | Lead Developer |
-| Priyanshu | Co-Developer |
+| Name |
+|---|
+| Sahil |
+| Priyanshu |
 
 **Professor:** Prof. Angshul Majumdar
 **College:** IIIT Delhi
